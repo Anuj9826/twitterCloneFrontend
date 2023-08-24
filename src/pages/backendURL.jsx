@@ -1,0 +1,1 @@
+export const backend_url = "https://average-plum-gear.cyclic.cloud";
